@@ -10,4 +10,4 @@ Financial loan services are leveraged by companies across many industries, from 
 •	Load defaults are high for the income group 15000 to 35000.
 
 ## Modeling - Findings
-•	Accuracy of Logistic Regression and Decision Tree Classifier is almost same.
+•	Accuracy of Logistic Regression and Decision Tree Classifier is almost same. (88.5%)
