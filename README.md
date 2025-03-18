@@ -10,4 +10,17 @@ Financial loan services are leveraged by companies across many industries, from 
 -  Load defaults are high for the income group 15000 to 35000.
 
 ## Modeling - Findings
--  Accuracy of Logistic Regression and Decision Tree Classifier is almost same. (88.5%)
+
+In this analysis, we analysed the performance of six machine learning classifiers on provided dataset. 
+
+1. Decision Tree Classifier - The Decision Tree classifier showed an accuracy of 77%
+2. Random Forest Classifier - The Random Forest classifier showed an accuracy of 80%
+3. Logistic Regression Model - The Logistic Regression showed highest accuracy score of 86% among all classifiers and also showed highest precision of 100%
+4. k-Nearest Neighbors (k-NN) - KNN Classifier showed lowest accuracy of 67%. 
+5. Gradient Boosting Classifier - Gradient Boosting Classifier showed accuracy of 82%.
+6. AdaBoost Classifier - AdaBoost Classifier showed accuracy of 69%
+
+**Summary**
+                                                                                                                                                         
+Logistic Regression and Gradient Boosting Classifier showed higher accuracy but due to high precision Logistic Regression proved to be the best model fit.
+ 
