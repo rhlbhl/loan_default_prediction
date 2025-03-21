@@ -13,7 +13,8 @@ In order to do this efficiently and systematically, many companies employ machin
   
 ## Modeling Findings
 •	Decision Tree Classifier, Random Forest Classifier, k-NN, Gradient Boosting Classifier and AdaBoost Classifier all of them show accuracy of around 88%
-Summary
+
+**Summary**
 Based on our evaluation using ROC AUC, accuracy, precision, recall, and F1-score, the models achieve high overall accuracy (around 88%), but their precision, recall, and F1-scores remain suboptimal. 
 This suggests that while the models reliably predict the majority class (non-defaulters), they struggle to correctly identify defaulters. 
 Although the high ROC AUC values indicate that the models have reasonable discriminative power, the low recall and F1-scores reveal that the detection of the minority class (defaulters) is inadequate.
